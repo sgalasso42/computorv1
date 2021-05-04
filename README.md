@@ -1,4 +1,4 @@
-# computorv1 (work in progress)
+# computorv1
 Solves polynomials equation of degree 2 or less<br/>
 This is a 42 school project <strong>[Final grade: 123%]</strong>
 
